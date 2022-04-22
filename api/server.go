@@ -3,7 +3,7 @@ package api
 import (
 	"github.com/bwmarrin/snowflake"
 	"github.com/gin-gonic/gin"
-	db "github.com/ndtai772/FreshFoodBackend/db/sqlc"
+	db "github.com/ndtai772/hackathon/db/sqlc"
 )
 
 type Server struct {

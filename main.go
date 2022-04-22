@@ -5,8 +5,8 @@ import (
 	"log"
 
 	_ "github.com/lib/pq"
-	"github.com/ndtai772/HackathonBackend/api"
-	db "github.com/ndtai772/HackathonBackend/db/sqlc"
+	"github.com/ndtai772/hackathon/api"
+	db "github.com/ndtai772/hackathon/db/sqlc"
 )
 
 const (
